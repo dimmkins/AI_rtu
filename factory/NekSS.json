@@ -1,0 +1,9 @@
+{
+	"name": "NekSS",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b4a44ca0-0122-47b7-9e0b-99c176f4ba79",
+		"tenantId": "76b8ff7b-7ba3-4d81-b3c2-3702351c70df"
+	}
+}
